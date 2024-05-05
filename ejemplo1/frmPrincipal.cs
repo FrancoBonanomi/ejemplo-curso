@@ -12,6 +12,7 @@ namespace ejemplo1
 {
     public partial class frmPrincipal : Form
     {
+        //le agrego un comentario al archivo
         public frmPrincipal()
         {
             InitializeComponent();
